@@ -1,6 +1,4 @@
-# TÍTULO DEL BLOG: Resucitando Celulares
-**Tipo de Blog:** Digital e Informático  
-**Autor:** Alexander Dávalos Romero (V3RG|L)
+# Resucitando Romeroutor:** Alexander Dávalos Romero (V3RG|L)
 
 ## ¡Cómo reviví mi Samsung Galaxy A32 (SM-A325M) con crDroid y Android 14!
 
@@ -27,5 +25,5 @@ En mi próxima actualización compartiré más consejos de personalización.
 
 **Fuentes consultadas:**
 * crDroid Official – [crdroid.net](https://crdroid.net)
-* XDA Developers Forum – Samsung Galaxy A32 Custom ROMs
-* Wikipedia – ROM personalizada
+* XDA Developers Forum – (https://xdaforums.com/f/samsung-galaxy-a32-4g.12143/)
+* Gemini Ai
