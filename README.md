@@ -1,8 +1,6 @@
-# Resucitando Romeroutor:** Alexander Dávalos Romero (V3RG|L)
+# Resucitando celulares
 
 ## ¡Cómo reviví mi Samsung Galaxy A32 (SM-A325M) con crDroid y Android 14!
-
-Hola a todos, bienvenidos a mi blog. Mi nombre es VERMEIL pero me conocen como V3RG|L.
 
 Quiero compartirles mi experiencia personal con mi celular, un **Samsung Galaxy A32 (SM-A325M)** de 6GB de RAM y pantalla AMOLED. Aunque es un buen celular, con el tiempo se volvió muy lento por todas las aplicaciones basura de Samsung (One UI) y se quedó abandonado oficialmente en Android 13. Pensé que tenía que votar este celular, hasta que encontré una tendencia muy loca que está dando una segunda oportunidad a los celulares: las **Custom ROMs**.
 
