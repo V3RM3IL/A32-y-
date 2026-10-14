@@ -7,7 +7,7 @@ Quiero compartirles mi experiencia personal con mi celular, un **Samsung Galaxy 
 ### ¿Qué es una Custom ROM?
 Es un sistema operativo Android limpio y optimizado, creado por una comunidad de programadores de todo el mundo. Es como formatear una computadora vieja e instalarle Windows desde cero para que vuelva a volar. Le quita todo el *bloatware*, que es la basura que ponen las marcas.
 
-En mi caso, le instalé a mi A32 la ROM **crDroid 10.5 basada en Android 14**. La instalé porque es una de las más famosas y estables del momento, promueve algo increíble: tener la fluidez y personalización de un Google Pixel en un celular de 2021. Ahora mi A32 tiene cosas nuevas de Android 14, cuando antes solo tenía problemas de compatibilidad con apps nuevas.
+En mi caso, le instalé a mi A32 la ROM **crDroid 10.13 basada en Android 14**. La instalé porque es una de las más famosas y estables del momento, promueve algo increíble: tener la fluidez y personalización de un Google Pixel en un celular de 2021. Ahora mi A32 tiene cosas nuevas de Android 14, cuando antes solo tenía problemas de compatibilidad con apps nuevas.
 
 ### Mis consejos después de instalarla:
 1. **Rendimiento:** El celular es otro. Abre las apps al instante y la batería dura más que antes.
