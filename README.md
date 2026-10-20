@@ -1,3 +1,9 @@
+# Proyecto A32 - Blog Técnico Educativo
+Este es mi blog personal de informática.
+Aquí documento mis pruebas con el dispositivo Samsung A32, aprendizaje sobre Android, sistemas operativos y desarrollo web.
+
+Autor: V3RM3IL - Estudiante
+* Objetivo: Fines educativos.
 # Resucitando celulares
 
 ## ¡Cómo reviví mi Samsung Galaxy A32 (SM-A325M) con crDroid y Android 14!
