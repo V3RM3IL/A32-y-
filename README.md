@@ -31,3 +31,5 @@ En mi próxima actualización compartiré más consejos de personalización.
 * crDroid Official – [crdroid.net](https://crdroid.net)
 * XDA Developers Forum – (https://xdaforums.com/f/samsung-galaxy-a32-4g.12143/)
 * Gemini Ai
+# COMENTARIOS
+(https://v3rm3il.github.io/A32-y-/)
